@@ -1,4 +1,4 @@
-# MinecraftAutoVoting - Unfinished - Archive
+# MinecraftAutoVoting - Concept - Archive
 
 This project was built in a short timeframe of a few days and consists of two main roles:
 
